@@ -1,7 +1,7 @@
 # CodeIgniter 4 Application Starter
 ![php](https://user-images.githubusercontent.com/50755376/146914137-72dbae58-cc20-4b7b-b8cd-d5f47958649e.png)
 [WPU-13. Migration, Seeder & Faker](https://youtu.be/rqdp6UBhQ6k)  
-[WPU-14. 14. Pagination & Searching ](https://youtu.be/0BIW6unTEfk)  
+[WPU-14. Pagination & Searching ](https://youtu.be/0BIW6unTEfk)  
 [Faker](https://github.com/fzaninotto/Faker)  
 
 ## What is CodeIgniter?
